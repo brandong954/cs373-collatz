@@ -1,4 +1,4 @@
-s file is named "travis.yml".
+# This file is named "travis.yml".
 # Rename it ".travis.yml".
 # http://docs.travis-ci.com/user/build-configuration/
 
