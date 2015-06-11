@@ -31,7 +31,11 @@ def collatz_eval (i, j) :
     """
     # <your code>
     assert i > 0
-    assert j >= i
+    assert j > 0
+    if i > j :
+        temp = i
+        i = j
+        j = temp
     maxCycle = 0
     for num in range(i, j + 1) :
         n = num
