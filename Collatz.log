@@ -1,0 +1,101 @@
+commit 31770e6de3c6be27416b05ef344c763e338aaa3e
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 15:42:48 2015 -0500
+
+    refactored code
+
+commit 176ff6ba21d898eea4f24f65b0c1638fcc414fe0
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 15:35:42 2015 -0500
+
+    tested on sphere with lazy cache
+
+commit 83627e1ea8e3712c2387c1f926256458bc353816
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 15:17:23 2015 -0500
+
+    resolved #20
+
+commit 5c43447104d11a1b92824a3e56e9f4c7eed6076c
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 13:42:11 2015 -0500
+
+    cleaning up
+
+commit 2c64d7668364dd43f1d9b3c8d5a45269f3b30019
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 13:26:07 2015 -0500
+
+    resolved #18, can't have more than 103 acceptance tests
+
+commit 965686f9869e60bb489dd1f1c4344f7a99241cdd
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 13:00:43 2015 -0500
+
+    fixed small error in method name
+
+commit eda63aefcbcb21e96e93328006de66b923f1a876
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 11:53:15 2015 -0500
+
+    resolved #17
+
+commit e2c039774db9158ff47246bac03e3582f101bb5b
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 10:20:06 2015 -0500
+
+    fixed eval() and added new tests
+
+commit 84f9c7ea41f2b94698016823ecd1d30da16a87c4
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Thu Jun 11 10:06:42 2015 -0500
+
+    fixed test case and created SphereCollatz.py
+
+commit 28aabd4f4ade1b12bad05ebeb43cdce385ef9bee
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Wed Jun 10 19:32:32 2015 -0500
+
+    resolved #14
+
+commit 87beffe631f58fc06c66396c0c568d5b2f1b9853
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Wed Jun 10 11:30:43 2015 -0500
+
+    resolved #10
+
+commit c7dcfddb89a2c7e5cef2e2c915f1791c78d06150
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Tue Jun 9 17:58:29 2015 -0500
+
+    resolved #9
+
+commit a7333d48b0ebfa852d063f684136f6d1aebb9538
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Tue Jun 9 17:38:55 2015 -0500
+
+    resolved #8
+
+commit 381e6b3a7389b45a1881905397f0078c2f6c184c
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Tue Jun 9 11:29:06 2015 -0500
+
+    resolved #12
+
+commit 2e32ba3cdaa3c0f5c7fba2c54cb5409f6b3fede5
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Tue Jun 9 11:25:09 2015 -0500
+
+    fixed paste error in .travis.yml
+
+commit 45c7fd288f795be0a926f94e43e8fde1d2701bf8
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Tue Jun 9 11:20:51 2015 -0500
+
+    resolved #11
+
+commit 2815c94cd5c13e33aed80fa5eef0bdaf9985dcf8
+Author: Brandon Gottesman <brandon.gottesman@gmail.com>
+Date:   Tue Jun 9 09:24:29 2015 -0500
+
+    resolved #3
