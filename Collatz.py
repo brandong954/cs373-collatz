@@ -6,6 +6,8 @@
 # Glenn P. Downing
 # ---------------------------
 
+cache = {}
+
 # ------------
 # collatz_read
 # ------------
@@ -39,14 +41,19 @@ def collatz_eval (i, j) :
     maxCycle = 0
     for num in range(i, j + 1) :
         n = num
-        c = 1
-        while n > 1 :
-            if (n % 2) == 0 :
-                n = (n // 2)
-            else :
-                n = (3 * n) + 1   
-            c += 1
-        assert c > 0
+
+        if num in cache :
+            c = cache[num]
+        else :
+            c = 1
+            while n > 1 :
+                if (n % 2) == 0 :
+                    n = (n // 2)
+                else :
+                    n = (3 * n) + 1   
+                c += 1
+            assert c > 0
+            cache[num] = c
         maxCycle = max(maxCycle, c)
     assert maxCycle > 0
     return maxCycle
