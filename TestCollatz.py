@@ -110,7 +110,7 @@ class TestCollatz (TestCase) :
         collatz_solve(r, w)
         self.assertEqual(w.getvalue(), "1 10 20\n100 210 125\n900 1000 174\n")
 
-    def test_solve_1 (self) :
+    def test_solve_4 (self) :
         r = StringIO("10 1\n200 100\n210 201\n1000 900\n")
         w = StringIO()
         collatz_solve(r, w)
