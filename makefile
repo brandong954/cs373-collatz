@@ -1,9 +1,9 @@
 FILES :=                              \
     .travis.yml                       \
-    collatz-tests/EID-RunCollatz.in   \
-    collatz-tests/EID-RunCollatz.out  \
-    collatz-tests/EID-TestCollatz.py  \
-    collatz-tests/EID-TestCollatz.out \
+    collatz-tests/BRG564-RunCollatz.in   \
+    collatz-tests/BRG564-RunCollatz.out  \
+    collatz-tests/BRG564-TestCollatz.py  \
+    collatz-tests/BRG564-TestCollatz.out \
     Collatz.html                      \
     Collatz.log                       \
     Collatz.py                        \
